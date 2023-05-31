@@ -1,0 +1,15 @@
+{
+    "username": "bz422",
+    "code": "P-DAGO-213",
+    "title": "A Spiking Neural Network-Based Implementation of Random Forest Algorithm and Its Robustness Exploration",
+    "s1": {
+        "name": "Dan Goodman",
+        "email": "d.goodman@imperial.ac.uk",
+        "affiliation": "Department of Electrical and Electronic Engineering, Imperial College London"
+    },
+    "s2": {
+        "name": "Lluis Guasch",
+        "email": "l.guasch08@imperial.ac.uk",
+        "affiliation": "Department of Earth Science and Engineering, Imperial College London"
+    }
+}
