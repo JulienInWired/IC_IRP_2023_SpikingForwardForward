@@ -1,7 +1,6 @@
-# IRP
+# IRP: Spiking Forward-Forward
 
-## Spiking Forward-Forward
-
+## "And now I see. With eye serene. The very pulse of the machine."
 This is a repository for the Spiking Forward-Forward algorithm developed by Boxuan Zhu. The warehouse mainly consists of two parts:
 
 1. reports: Contains final reports and project plan.
