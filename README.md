@@ -1,12 +1,8 @@
 # IRP
 
-## About this template
+## Spiking Forward-Forward
 
-We generated this repository for you to work in during your IRP. Please note that if your code is confidential, you do not need to submit your code here.
+This is a repository for the Spiking Forward-Forward algorithm developed by Boxuan Zhu. The warehouse mainly consists of two parts:
 
-- For project information updates, please refer to `README.md` in [`info/`](./info) directory.
-- For details on deliverable submissions, please refer to `README.md` in [`reports/`](./reports) directory.
-
-If you have any questions or experience any difficulties, please get in touch with Marijan (m.beg@imperial.ac.uk).
-
-Please feel free to remove this text from `README.md` and write it the way you want. ;)
+1. reports: Contains final reports and project plan.
+3. codes: Taking experiments as the basic unit, this folder contains 5 series of experiments for Spiking Forward-Forward - MNIST, FashionMNIST, N-MNIST, SHD and decentralized experiments. There is no difference in the SFF algorithm used in these experiments, only the hyperparameters and whether the STDP module is enabled or not.
